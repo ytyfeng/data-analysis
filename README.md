@@ -1,4 +1,2 @@
-# data-analysis
-Data analysis jupyter notebooks using Pandas and python
-
-Developed for a biology lab class to make box plots and diagrams to visualize data 
+# Data Analysis For Biology Experiments
+Using Python to automate Mann-Whitney U Ranked Test and data visualization
